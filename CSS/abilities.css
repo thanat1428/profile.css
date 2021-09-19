@@ -1,0 +1,42 @@
+
+     
+ body{
+     background-color: #393E46;
+ }
+ h1{
+     text-align: center;
+     font-family: cursive;
+     color: #00ADB5;
+
+ }
+ h4{
+    text-align: center; 
+    font-family: cursive;font-weight: normal ;
+    color: #EEEEEE;
+
+ }
+ h2{
+     text-align: center;
+     font-family: sans-serif;
+     color: red;
+ }
+ #table-all{
+    margin-left: auto;
+     margin-right: auto;      
+ }
+ .table-abi {
+    width: 100%;
+    text-align: center;
+    font-family: cursive;
+    background-color: #222831;
+    
+ }
+ #abilities-text{
+    font-family: Annie Use Your Telescope; 
+    text-align: center;
+    color:#EEEEEE;
+ }
+ .backg-table{
+     background-color: #222831;
+     color: #00ADB5;
+ }

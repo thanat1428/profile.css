@@ -1,0 +1,83 @@
+/* CSS file --> index.thml */
+/* (1) Tag Selector */
+body{
+    background-color:#393E46
+}
+h1{ 
+    text-align: center;
+    font-family: cursive;
+    color: #00ADB5
+    
+}
+h2{
+    text-align: center;
+    font-family: cursive;       
+    color: #EEEEEE
+    
+}
+
+table{
+    width: 100%;
+    text-align:center
+}
+th{
+    width: 33.33%;
+    vertical-align: top;      
+}
+
+
+ /* (2) Class Selector */
+
+.p-aboutme{
+   font-weight: normal;
+   text-align: justify;
+   color: #00ADB5;
+}
+.th-deteils{    
+    text-align: left;
+}
+.p-name{
+    font-weight: normal;
+    color: #EEEEEE;
+}
+.p-footer{
+    text-align:center
+}
+.emailcolor{
+    color: red;
+}
+.namecolor{
+    color: #00ADB5
+}
+.bgcolor-pr{
+    background-color: #222831;
+}
+/* (3) ID Selector */
+#tr-h3{
+    font-family: cursive;
+  
+}
+#myname{
+    color: #EEEEEE
+}
+#h3-Someonesaidnobody’sperfectbuthereiam{
+    text-align: center;
+    font-family: Annie Use Your Telescope;
+    font-size: x-large;
+    color: #EEEEEE
+}
+
+#backg2{
+    background-color:#222831;
+    margin-left: auto; margin-right: auto;
+}
+#backg3 {
+    background-color:#222831;
+    font-family: cursive;
+}
+
+
+
+    
+
+

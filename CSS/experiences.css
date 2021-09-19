@@ -1,0 +1,48 @@
+#table-ex{
+    width: 100%; 
+    text-align:center;
+    background-color: #222831;
+    
+}
+#table-margin{
+    margin-left: auto; 
+    margin-right: auto;
+    
+}
+.tr-tableh3{
+    font-family: cursive;
+}
+.ui{
+    list-style-type: circle;
+}
+.table-content {
+        color: #EEEEEE;
+        background-color: #222831;
+        
+}
+.backgex{
+    background-color: #222831;
+}
+h1{
+    text-align: center;
+     font-family: cursive;
+     color: #00ADB5;
+     
+}
+h2{
+    color:#00ADB5;
+}
+#h3{
+    text-align: center; 
+    font-family: Annie Use Your Telescope;
+    color: #EEEEEE;
+}
+h4{
+    text-align: center; 
+    font-family: cursive;
+    font-weight: normal ;
+    color: #EEEEEE;
+}
+body{
+    background-color:#393E46;
+}
